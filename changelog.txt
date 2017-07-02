@@ -1,0 +1,16 @@
+Changelog
+
+27 June 2016 - 1.01
+--------------------------------------
+- Homepage Modification
+- Unlimited color options added
+- Shop page modified
+- Blog page modified
+- Theme options via live customizer api
+- Added left sidebar, right sidebar, and fullwidth layout to blog.
+- Added left sidebar, riht sidebar, and fullwidth to shop.
+- minor change to the credits.
+
+1 June 2016 - 1.00
+--------------------------------------
+- Theme Released
